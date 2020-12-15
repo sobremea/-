@@ -1,0 +1,14 @@
+<!--pages/list/list.wxml-->
+<text class="yilan">北京市知名景点一览</text>
+<button class="gotoList" bindtap="gotoYihe">颐和园</button>
+<image src="/pages/images/yihe6.jpg"></image>
+<button class="gotoList" bindtap="gotoGugong">故宫</button>
+<image src="/pages/images/gugong.jpg"></image>
+<button class="gotoList" bindtap="gotoYuanming">圆明园</button>
+<image src="/pages/images/yuanming.jpg"></image>
+<button class="gotoList" bindtap="gotoXiangshan">香山</button>
+<image src="/pages/images/xiangshan.jpg"></image>
+<button class="gotoList" bindtap="gotoBeihai">北海公园</button>
+<image src="/pages/images/beihai.jpg"></image>
+<button class="gotoList" bindtap="gotoTiantan">天坛</button>
+<image src="/pages/images//tiantan.png"></image>

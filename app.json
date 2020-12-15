@@ -1,0 +1,55 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/list/list",
+    "pages/beihai/beihai",
+    "pages/gugong/gugong",
+    "pages/tiantan/tiantan",
+    "pages/xiangshan/xiangshan",
+    "pages/yihe/yihe",
+    "pages/yuanming/yuanming",
+    "pages/yihe/xiangqing/xiangqing",
+    "pages/yihe/gonglue/gonglue",
+    "pages/yihe/meishi/meishi",
+    "pages/gugong/xiangqing/xiangqing",
+    "pages/gugong/gonglue/gonglue",
+    "pages/gugong/meishi/meishi",
+    "pages/yuanming/xiangqing/xiangqing",
+    "pages/yuanming/meishi/meishi",
+    "pages/yuanming/gonglue/gonglue",
+    "pages/xiangshan/gonglue/gonglue",
+    "pages/xiangshan/meishi/meishi",
+    "pages/xiangshan/xiangqing/xiangqing",
+    "pages/beihai/gonglue/gonglue",
+    "pages/beihai/meishi/meishi",
+    "pages/beihai/xiangqing/xiangqing",
+    "pages/tiantan/gonglue/gonglue",
+    "pages/tiantan/meishi/meishi",
+    "pages/tiantan/xiangqing/xiangqing"
+  ],
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "地图",
+        "iconPath": "icons/地图.png",
+        "selectedIconPath": "icons/地图 (1).png"
+      },
+      {
+        "pagePath": "pages/list/list",
+        "text": "景点一览",
+        "iconPath": "icons/详情.png",
+        "selectedIconPath": "icons/详情 (1).png"
+      }
+    ]
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "吃喝玩乐in北京",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

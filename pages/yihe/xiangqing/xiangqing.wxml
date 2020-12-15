@@ -1,0 +1,21 @@
+<!--pages/yihe/xiangqing/xiangqing.wxml-->
+<view style="margin-top:50rpx" >
+<view style="text-align:center">颐和园</view>
+
+<view class="text" style="margin-top:20rpx">
+        中国四大名园之一，北京市古代皇家园林，中国现存最大的皇家园林，国家5A级旅景区，前身为清朝乾隆皇帝为孝敬其母孝圣皇后所建造的清漪园。</view>
+        <view class="text">
+        颐和园占地面积达293公顷，主要由万寿山和昆明湖两部 分组成。各种形式的宫殿园林建筑3000余间，大致可分为行政、生活、游览三个部分。</view>
+        <view class="text">
+        以仁寿殿为中心的行政区，是当年慈禧太后和光绪皇帝坐朝听政，会见外宾的地方。仁寿殿后是三座大型四合院：乐寿堂、玉澜堂和宜芸馆，分别为慈禧、光绪和后妃们居住的地方。宜芸馆东侧的德和园大戏楼是清代三大戏楼之一。</view>
+        <view class="text">
+         颐和园自万寿山顶的智慧海向下，由佛香阁、德辉殿、排云殿、排云门、云辉玉宇坊，构成了一条层次分明的中轴线。山下是一条长700多米的“长廊”，长廊枋梁上有彩画8000多幅，号称 “世界第一廊”。长廊之前是昆明湖。昆明湖的西堤是仿照西湖的苏堤建造的。</view>
+         <view class="text">
+       万寿山后山、后湖古木成林，有藏式寺庙，苏州河古买卖街。后湖东端有仿无锡寄畅园而建的谐趣园，小巧玲珑，被称为“园中之园”。</view>
+       <view class="text">
+        颐和园整个园林艺术构思巧妙，在中外园林艺术史上地位显著，是举世罕见的园林艺术杰作。</view>
+
+</view>
+<view class="content">
+	<image class="background" src="/pages/images/background.jpg" mode="aspectFill"></image>
+</view>

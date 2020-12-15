@@ -1,0 +1,14 @@
+/* pages/list/list.wxss */
+.yilan{
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  color:#ffd700;
+}
+.gotoList{
+  margin-top: 18rpx;
+  background: linear-gradient(to right,#f9957f, #f2f5d0, #aebaf8, #c973ff );
+  width: 80%;  
+  border-radius: 50rpx;
+  
+}

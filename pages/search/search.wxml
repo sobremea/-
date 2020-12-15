@@ -1,0 +1,21 @@
+<view class="search_row">
+<input placeholder="请输入搜索内容"></input>
+<button >搜索</button>
+</view>
+<view class="search_content">
+<view class="search_item">
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias incidunt temporibus obcaecati in accusamus eligendi porro, aliquid aperiam. Quae neque harum corrupti laudantium consequuntur minima eos amet commodi reiciendis quos.
+</view>
+</view><view class="search_content">
+<view class="search_item">
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias incidunt temporibus obcaecati in accusamus eligendi porro, aliquid aperiam. Quae neque harum corrupti laudantium consequuntur minima eos amet commodi reiciendis quos.
+</view>
+</view><view class="search_content">
+<view class="search_item">
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias incidunt temporibus obcaecati in accusamus eligendi porro, aliquid aperiam. Quae neque harum corrupti laudantium consequuntur minima eos amet commodi reiciendis quos.
+</view>
+</view><view class="search_content">
+<view class="search_item">
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias incidunt temporibus obcaecati in accusamus eligendi porro, aliquid aperiam. Quae neque harum corrupti laudantium consequuntur minima eos amet commodi reiciendis quos.
+</view>
+</view>

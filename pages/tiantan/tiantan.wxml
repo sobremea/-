@@ -1,0 +1,21 @@
+<!--pages/tiantan/tiantan.wxml-->
+<view class="foot">  
+  <view class="footnav">
+    <image src="/pages/images/自由安排.png" class="navimg" bindtap="gotoXiangqing"></image>
+    <text class="navtxt" bindtap="gotoXiangqing">景点详情</text>
+  </view>
+  <view class="footnav">
+    <image src="/pages/images/怎么玩.png" class="navimg" bindtap="gotoGonglue"></image>
+    <text class="navtxt" bindtap="gotoGonglue">景点攻略</text>
+  </view>
+  <view class="footnav">
+    <image src="/pages/images/餐厅.png" class="navimg" bindtap="gotoMeishi"></image>
+    <text class="navtxt" bindtap="gotoMeishi">周边美食</text>
+  </view>
+  </view>
+  <view>
+    <image src="/pages/images/tiantan.png"></image>
+    <image src="/pages/images/tiantan1 (1).jpeg"></image>
+    <image src="/pages/images/tiantan1 (2).jpeg"></image>
+    <image src="/pages/images/tiantan1 (3).jpeg"></image>
+  </view>
